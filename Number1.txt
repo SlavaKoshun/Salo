@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Line 1
 Line 33
+=======
+Line2
+>>>>>>> Second
